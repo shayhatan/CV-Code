@@ -12,4 +12,4 @@ Compilation, linking, and use of libraries, Basic SHELL commands.
    * Ex3: Python.
     
 ###   
-Each file contain informative each file has informative document.
+Each file contain informative document.
